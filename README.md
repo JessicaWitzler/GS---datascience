@@ -2,9 +2,9 @@ DATA SCIENCE & STATISTICAL COMPUTING
 
 Engenharia de Software
 
-Jessica Witzler Costacurta || RM99068
-Marcio Hitoshi Tahyra || RM552511
-Camilly Breitbach Ishida || RM551474
+Jessica Witzler Costacurta || RM99068 <br>
+Marcio Hitoshi Tahyra      || RM552511 <br>
+Camilly Breitbach Ishida   || RM551474
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Análise da Evolução das Emissões de CO₂ ao Longo do Tempo
